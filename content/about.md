@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-11-05T14:48:20+08:00
-draft: true
+draft: false
 ---
 
 This is just another hugo site, which is pretty cool

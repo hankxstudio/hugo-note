@@ -1,8 +1,15 @@
----
-title: "Docker Multiple State Build"
-date: 2020-11-05T16:10:13+08:00
-draft: true
----
++++
+title = "Docker Multiple State Build"
+date = 2020-11-05T16:10:13+08:00
+draft = false
+author = ""
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["", ""]
+keywords = ["", ""]
+description = ""
+showFullContent = false
++++
 
 ## Tody I tried Docker multiple states build.
 

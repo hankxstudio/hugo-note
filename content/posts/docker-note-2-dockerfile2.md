@@ -1,7 +1,7 @@
 ---
 title: "Docker Note 2 - Makefile commands part2"
 date: 2020-11-09T12:55:28+08:00
-draft: true
+draft: false
 ---
 
 # ARG

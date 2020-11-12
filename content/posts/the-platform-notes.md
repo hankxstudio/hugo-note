@@ -1,7 +1,7 @@
 ---
 title: "The Platform Notes"
 date: 2020-11-05T14:35:37+08:00
-draft: true
+draft: false
 ---
 
 ## this is a note site for myself
